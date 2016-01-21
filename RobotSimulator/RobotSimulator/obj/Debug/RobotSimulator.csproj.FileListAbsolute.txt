@@ -1,0 +1,5 @@
+C:\Users\SD\Documents\Visual Studio 2015\Projects\RobotSimulator\RobotSimulator\bin\Debug\RobotSimulator.exe.config
+C:\Users\SD\Documents\Visual Studio 2015\Projects\RobotSimulator\RobotSimulator\bin\Debug\RobotSimulator.exe
+C:\Users\SD\Documents\Visual Studio 2015\Projects\RobotSimulator\RobotSimulator\bin\Debug\RobotSimulator.pdb
+C:\Users\SD\Documents\Visual Studio 2015\Projects\RobotSimulator\RobotSimulator\obj\Debug\RobotSimulator.exe
+C:\Users\SD\Documents\Visual Studio 2015\Projects\RobotSimulator\RobotSimulator\obj\Debug\RobotSimulator.pdb
