@@ -16,7 +16,7 @@ namespace RobotSimulator
         
         bool Right();
 
-        void Report();
+        string Report();
 
         bool PosIsValid(int xCood, int yCood);
 

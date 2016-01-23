@@ -7,7 +7,12 @@ using System.Threading.Tasks;
 
 namespace RobotSimulator
 {
-    class RemoteController
+    /// <summary>
+    /// Controller class to control the Robot object.
+    /// Controller parse the input instruction strings, validate them and pass the instructions to the robot.
+    /// 
+    /// </summary>
+    public class RemoteController
     {
         private Robot robot;
         private PlaceArguments placeArguments;
